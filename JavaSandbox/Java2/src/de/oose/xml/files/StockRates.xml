@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StockRates>
+	<StockRate Name="Apple Inc.">
+		<Last>578.58</Last>
+		<Close>577.67</Close>
+		<High>580.25</High>
+		<Low>575.42</Low>
+	</StockRate>
+	<StockRate Name="Bank of America Corp">
+		<Last>7.88</Last>
+		<Close>7.82</Close>
+		<High>8.01</High>
+		<Low>7.79</Low>
+	</StockRate>
+	<StockRate Name="Citigroup Inc">
+		<Last>27.99</Last>
+		<Close>27.82</Close>
+		<High>28.83</High>
+		<Low>27.8</Low>
+	</StockRate>
+</StockRates>
